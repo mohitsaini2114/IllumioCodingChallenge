@@ -1,5 +1,4 @@
 # IllumioCodingChallenge
-This is repository contains solution of Illumio coding challenge.
 
 ## Testing
 
